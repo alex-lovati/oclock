@@ -1,0 +1,49 @@
+body {
+  color: aliceblue;
+
+  text-align: center;
+}
+
+main {
+  margin-top: 2%;
+  font-size: xx-large;
+  color: aliceblue;
+
+  background-color: rgb(41, 41, 41);
+}
+
+h1 {
+  font-size: 300% !important;
+  color: rgb(207, 28, 28) !important;
+}
+
+span {
+  color: rgb(255, 213, 0);
+}
+
+input {
+  color: black !important;
+  margin: 12px;
+}
+
+.section1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 200%;
+}
+
+p {
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.section2 {
+  margin: 10px;
+}
+
+html {
+  color: aliceblue;
+  background-color: rgb(41, 41, 41);
+
+}
